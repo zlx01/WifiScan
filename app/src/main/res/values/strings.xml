@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiFi扫描</string>
+    <string name="current_connected_wifi">当前所连WiFi</string>
+    <string name="wifi_scan_results">WiFi扫描结果</string>
+</resources>
